@@ -19,16 +19,3 @@ To set up the project locally, follow these steps:
    ```bash
    cd Bank-Data-Analysis-Project
    ```  
-3. Install the required dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage Examples
-Run the following command to start the analysis:
-```bash
-python main.py
-```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
