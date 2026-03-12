@@ -52,7 +52,7 @@ Wrote 20+ optimized SQL queries on the `bank_transactions` table to surface tran
 
 ---
 
-## 📉 Dashboard 1 — Credit & Debit Analysis (Power BI)
+## Dashboard 1 — Credit & Debit Analysis (Power BI)
 
 ![Credit and Debit Analysis](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/99f721cfef9002204e1c093d2547d877f77a6f67/Dashboard/PowerBi%20Dashboard.png)
 
@@ -72,7 +72,7 @@ Key Metrics:
 
 ---
 
-## 📉 Dashboard 2 — Bank Loan Portfolio Risk (Excel)
+## Dashboard 2 — Bank Loan Portfolio Risk (Excel)
 
 ![Bank Loan Portfolio Risk Dashboard](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/main/Dashboard/Excel%20Dashboard.png)
 
@@ -94,7 +94,7 @@ Key Metrics:
 
 ---
 
-## 📉 Dashboard 3 — Bank Loan Performance Risk (Tableau)
+## Dashboard 3 — Bank Loan Performance Risk (Tableau)
 
 ![Bank Loan Performance Risk Dashboard](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/8480bc23ad2cf74b1ebfc55dcc5c29af29c378cc/Dashboard/Tableau%20Dashboard.png)
 
@@ -110,12 +110,12 @@ Key Metrics:
 
 **Visuals:** Grade-wise default rate · Loan status distribution · Age group loan breakdown · State-wise revenue · Monthly disbursement trend
 
-**💡 Business Impact:**
+**Business Impact:**
 - Ranked **Grade E as the highest-risk segment** (2.96% default rate), supporting credit policy tightening for lower-grade borrowers
 - Found the **26–35 age group** drives the most loan volume (₹198.52M) — key target demographic for retention and upsell
 - **April disbursement spike (₹86.46M)** followed by a mid-year slump suggests seasonal lending patterns worth optimizing
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 1. **SQL Analysis**
    - Import `Debit_and_Credit_banking_data.xlsx` into MySQL as the `bank_transactions` table
@@ -146,4 +146,4 @@ Key Metrics:
 | 5 | Age group 26–35 drives the highest loan volume (₹198.52M) | Key segment for product design and retention |
 
 
-⭐ *If you found this project useful, consider giving it a star!*
+*If you found this project useful, consider giving it a star!*
