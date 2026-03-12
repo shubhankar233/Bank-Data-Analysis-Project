@@ -24,11 +24,11 @@ Banks generate massive volumes of transactional and loan data daily, yet extract
 
 ## SQL Analysis [Banking_SQL_Analysis_Project.sql](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/8480bc23ad2cf74b1ebfc55dcc5c29af29c378cc/Banking_SQL_Analysis_Project.sql)
 
-Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface transaction-level and customer-level insights.
+Wrote 20+ optimized SQL queries on the `bank_transactions` table to surface transaction-level and customer-level insights.
 
 ### Basic Metrics
 - Total transaction count and money flow
-- Debit vs. Credit distribution
+- Debit vs Credit distribution
 - Branch-wise transaction volume
 - Monthly transaction trends
 
@@ -46,7 +46,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 ### Advanced Analytics
 - Debit vs. Credit percentage contribution
-- Running totals per customer using **Window Functions (`SUM OVER PARTITION BY`)**
+- Running totals per customer using **Window Functions (`SUM OVER PARTITION BY`)
 - Monthly growth trend analysis
 - Bank-wise and transaction method usage breakdowns
 
@@ -56,7 +56,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 ![Credit and Debit Analysis](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/99f721cfef9002204e1c093d2547d877f77a6f67/Dashboard/PowerBi%20Dashboard.png)
 
-**Key Metrics:**
+Key Metrics:
 | Metric | Value |
 |---|---|
 | Total Credit | ₹127.60M |
@@ -65,7 +65,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 **Visuals:** Bank-wise transaction share · Monthly net waterfall · Branch-wise net amount · Quarterly transaction trend
 
-**💡 Business Impact:**
+**Business Impact:**
 - Detected a sharp **Q4 transaction drop** from ₹69M to ₹47M, signaling potential seasonal risk or customer churn
 - Identified **Main Branch** as the only branch with a significant net negative (−₹246K), warranting operational review
 - Confirmed near-equal distribution across 6 banks (~16–17% each), indicating no single bank dependency
