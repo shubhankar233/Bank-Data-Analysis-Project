@@ -26,7 +26,7 @@ Banks generate massive volumes of transactional and loan data daily, yet extract
 
 Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface transaction-level and customer-level insights.
 
-### Basic Metrics
+Basic Metrics
 - Total transaction count and money flow
 - Debit vs. Credit distribution
 - Branch-wise transaction volume
@@ -135,7 +135,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 ---
 
-## 💡 Key Insights Summary
+## Summary
 
 | # | Insight | Business Impact |
 |---|---|---|
