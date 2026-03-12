@@ -115,17 +115,6 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 - Found the **26–35 age group** drives the most loan volume (₹198.52M) — key target demographic for retention and upsell
 - **April disbursement spike (₹86.46M)** followed by a mid-year slump suggests seasonal lending patterns worth optimizing
 
----
-
-## 🛠️ Skills & Technologies
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Modeling-yellow?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-Calculated%20Fields-orange?logo=tableau&logoColor=white)
-
----
-
 ## 🚀 How to Run This Project
 
 1. **SQL Analysis**
@@ -156,16 +145,5 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 | 4 | Q4 transaction volume dropped sharply from ₹69M to ₹47M | Investigate churn or seasonal demand factors |
 | 5 | Age group 26–35 drives the highest loan volume (₹198.52M) | Key segment for product design and retention |
 
----
-
-## 📬 Connect With Me
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/yourprofile](#) |
-| 🌐 Portfolio | [yourportfolio.com](#) |
-| 📧 Email | you@email.com |
-
----
 
 ⭐ *If you found this project useful, consider giving it a star!*
