@@ -74,7 +74,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 ## 📉 Dashboard 2 — Bank Loan Portfolio Risk (Excel)
 
-![Bank Loan Portfolio Risk Dashboard](Excel_Dashboard.png)
+![Bank Loan Portfolio Risk Dashboard]([Excel_Dashboard.png](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/main/Dashboard/Excel%20Dashboard.png))
 
 **Key Metrics:**
 | Metric | Value |
