@@ -11,7 +11,7 @@ Banks generate massive volumes of transactional and loan data daily, yet extract
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 | Layer | Tool | Dataset | Skills Demonstrated |
 |---|---|---|---|
@@ -22,7 +22,7 @@ Banks generate massive volumes of transactional and loan data daily, yet extract
 
 ---
 
-## 🗃️ SQL Analysis (`Banking_SQL_Analysis_Project.sql`)
+## SQL Analysis ![Banking_SQL_Analysis_Project.sql](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/8480bc23ad2cf74b1ebfc55dcc5c29af29c378cc/Banking_SQL_Analysis_Project.sql)
 
 Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface transaction-level and customer-level insights.
 
@@ -54,7 +54,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 ## 📉 Dashboard 1 — Credit & Debit Analysis (Power BI)
 
-![Credit and Debit Analysis](Dashboard/PowerBi Dashboard.png)
+![Credit and Debit Analysis](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/99f721cfef9002204e1c093d2547d877f77a6f67/Dashboard/PowerBi%20Dashboard.png)
 
 **Key Metrics:**
 | Metric | Value |
@@ -96,7 +96,7 @@ Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface 
 
 ## 📉 Dashboard 3 — Bank Loan Performance Risk (Tableau)
 
-![Bank Loan Performance Risk Dashboard](Tableau_Dashboard.png)
+![Bank Loan Performance Risk Dashboard](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/8480bc23ad2cf74b1ebfc55dcc5c29af29c378cc/Dashboard/Tableau%20Dashboard.png)
 
 **Key Metrics:**
 | Metric | Value |
