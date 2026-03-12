@@ -22,7 +22,7 @@ Banks generate massive volumes of transactional and loan data daily, yet extract
 
 ---
 
-## SQL Analysis ![Banking_SQL_Analysis_Project.sql](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/8480bc23ad2cf74b1ebfc55dcc5c29af29c378cc/Banking_SQL_Analysis_Project.sql)
+## SQL Analysis [Banking_SQL_Analysis_Project.sql](https://github.com/shubhankar233/Bank-Data-Analysis-Project/blob/8480bc23ad2cf74b1ebfc55dcc5c29af29c378cc/Banking_SQL_Analysis_Project.sql)
 
 Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface transaction-level and customer-level insights.
 
