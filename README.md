@@ -1,13 +1,13 @@
 # 🏦 Banking Data Analytics Project
 
-> **Transforming raw banking data into actionable risk and performance insights using SQL, Excel, Power BI, and Tableau.**
+> Transforming raw banking data into actionable risk and performance insights using SQL, Excel, Power BI, and Tableau.
 
-👤 **Author:** Shubhankar Gite  
+👤 Author: Shubhankar Gite  
 ---
 
 ## Problem Statement
 
-Banks generate massive volumes of transactional and loan data daily, yet extracting meaningful risk and performance insights remains a challenge. This project simulates a real-world banking analytics workflow — analyzing **65,000+ loan accounts** and **millions in transaction value** to identify risk patterns, customer behavior, and disbursement trends that support data-driven decision-making.
+Banks generate massive volumes of transactional and loan data daily, yet extracting meaningful risk and performance insights remains a challenge. This project simulates a real-world banking analytics workflow analyzing 65,000+ loan accounts and millions in transaction value to identify risk patterns, customer behavior, and disbursement trends that support data-driven decision-making.
 
 ---
 
@@ -26,7 +26,7 @@ Banks generate massive volumes of transactional and loan data daily, yet extract
 
 Wrote **20+ optimized SQL queries** on the `bank_transactions` table to surface transaction-level and customer-level insights.
 
-Basic Metrics
+### Basic Metrics
 - Total transaction count and money flow
 - Debit vs. Credit distribution
 - Branch-wise transaction volume
@@ -87,7 +87,7 @@ Basic Metrics
 
 **Visuals:** Grade-wise accounts · State-wise loan distribution · Loan status donut · Delinquent vs Default bar · Monthly disbursement trend
 
-**💡 Business Impact:**
+**Business Impact:**
 - Pinpointed **Uttar Pradesh** as the highest-exposure state at ₹10.06 Cr, enabling targeted regional risk monitoring
 - Flagged **5,706 delinquent accounts** vs. 418 default accounts — a 13.6x ratio indicating a large at-risk pipeline before default
 - Disbursement peak in **March (₹12.38 Cr)** followed by sharp decline — useful for cash flow and provisioning forecasts
